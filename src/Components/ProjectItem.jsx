@@ -10,7 +10,7 @@ const ProjectItem = ({ img, title, link }) => {
           {title}
         </h2>
         <div className="md:mt-[-8px] mt-[2px]">
-          <p className="pb-4 pt-22 text-white text-center">React JS</p>
+          <p className="pb-4 pt-22 text-white text-center">Pradeep N C</p>
           <a href={link}>
             <p className="text-[12px] md:text-[13px] sm:text-[18px] lg:text-1xl flex items-center justify-center sm:gap-[10px] gap-[2px] text-center p-3 rounded-lg bg-white text-gray-700 font-bold cursor-pointer hover:scale-110 ease-in duration-200">
               <FaGithub className="w-[30px] h-[30px]" />
