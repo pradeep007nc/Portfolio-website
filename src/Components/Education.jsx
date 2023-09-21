@@ -4,7 +4,7 @@ import EducationItem from "./EducationItem";
 const Education = () => {
   const data = [
     {
-      year: "2023 - 2025",
+      year: "2022 - 2024",
       title: "Master of Computer Applications",
       college: "PES University",
       details: "Specialized with Cloud Computing and Web Technologies",
