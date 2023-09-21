@@ -43,7 +43,7 @@ const Projects = () => {
         <ProjectItem
           img={portfolio}
           title={"Personal Portfolio - React"}
-          link={"https://github.com/pradeep007nc/Personal-Portfolio"}
+          link={"https://github.com/pradeep007nc/Portfolio-website"}
         />
       </div>
     </div>
